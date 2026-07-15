@@ -1,6 +1,6 @@
 # An Optical Coherence Tomography (OCT) B-scan Dataset Acquired Using Custom-built Spectral-domain Systems [sample]
 
-**This is a sample repository. For the full dataset, please go to: https://doi.org/10.57760/sciencedb.43262 or https://doi.org/10.3788/AI.2025.10026**
+**This is a sample repository. For the full dataset, please go to: ![10.57760/sciencedb.43262](https://doi.org/10.57760/sciencedb.43262) for dataset files and ![10.3788/AI.2025.10026](https://doi.org/10.3788/AI.2025.10026) for more information.**
 
 ## Overview
 
@@ -16,7 +16,7 @@ The datasets were collected using our custom-built spectral-domain OCT systems u
 
 # Relationship to the Associated Publication
 
-To maximize data availability and facilitate future research, this repository includes not only the image subsets used in the published experiments but also additional acquisitions collected under the same imaging protocols. Commercial prototype data mentioned in the original paper are excluded because of confidentiality agreements with the equipment provider. Public datasets referenced in the publication are available from their original repositories and are therefore not redistributed in this repository.
+To maximize data availability and facilitate future research, this repository includes not only the image subsets used in the published experiments but also additional acquisitions collected under the same imaging protocols. Some commercial prototype data mentioned in the original paper are excluded because of confidentiality agreements with the equipment provider. Public datasets referenced in our publication are available from their original repositories and are therefore not redistributed in this repository. 
 
 | Object                           | Waveband (nm) | Imaging Optics | Acquisition Condition | Repository Status                       |
 | -------------------------------- | ------------- | -------------- | --------------------- | --------------------------------------- |
@@ -65,6 +65,17 @@ No preprocessing, denoising, deconvolution, or annotation has been applied to th
 If you use this dataset in your research, please cite both this dataset and the associated publication.
 
 > Weiyi Zhang, Haoran Zhang, Qi Lan, Chang Liu, Zheng Li, Chengfu Gu, Jianlong Yang. Self-supervised PSF-informed deep learning enables real-time deconvolution for optical coherence tomography[J]. Advanced Imaging, 2025, 2(2): 021001
+
+```
+@article{zhang2025self,
+  title={Self-supervised PSF-informed deep learning enables real-time deconvolution for optical coherence tomography},
+  author={Zhang, Weiyi and Zhang, Haoran and Lan, Qi and Liu, Chang and Li, Zheng and Gu, Chengfu and Yang, Jianlong},
+  journal={Advanced Imaging},
+  volume={2},
+  number={2},
+  pages={021001}
+}
+```
 
 ---
 
