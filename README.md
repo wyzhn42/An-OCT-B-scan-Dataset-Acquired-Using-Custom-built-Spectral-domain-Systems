@@ -1,6 +1,6 @@
 # An Optical Coherence Tomography (OCT) B-scan Dataset Acquired Using Custom-built Spectral-domain Systems [sample]
 
-**This is a sample repository. For the full dataset, please go to: ![10.57760/sciencedb.43262](https://doi.org/10.57760/sciencedb.43262) for dataset files and ![10.3788/AI.2025.10026](https://doi.org/10.3788/AI.2025.10026) for more information.**
+**This is a sample repository. For the full dataset, please go to: [10.57760/sciencedb.43262](https://doi.org/10.57760/sciencedb.43262) for dataset files and [10.3788/AI.2025.10026](https://doi.org/10.3788/AI.2025.10026) for more information.**
 
 ## Overview
 
