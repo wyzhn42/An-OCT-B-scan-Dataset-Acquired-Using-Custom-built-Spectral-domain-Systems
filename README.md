@@ -1,6 +1,10 @@
 # An Optical Coherence Tomography (OCT) B-scan Dataset Acquired Using Custom-built Spectral-domain Systems [sample]
 
-**This is a sample repository. For the full dataset, please go to: [10.57760/sciencedb.43262](https://doi.org/10.57760/sciencedb.43262) for dataset files and [10.3788/AI.2025.10026](https://doi.org/10.3788/AI.2025.10026) for more information.**
+[![Dataset DOI](https://img.shields.io/badge/Dataset%20DOI-10.57760%2Fsciencedb.43262-blue?style=flat-square)](https://doi.org/10.57760/sciencedb.43262)
+[![Paper DOI](https://img.shields.io/badge/Paper%20DOI-10.3788%2FAI.2025.10026-green?style=flat-square)](https://doi.org/10.3788/AI.2025.10026)
+[![License](https://img.shields.io/badge/License-CC--BY--NC%204.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+**Note: This is a sample repository. For the full dataset, please go to: [10.57760/sciencedb.43262](https://doi.org/10.57760/sciencedb.43262) for dataset files and [10.3788/AI.2025.10026](https://doi.org/10.3788/AI.2025.10026) for more information.**
 
 ## Overview
 
@@ -81,9 +85,7 @@ If you use this dataset in your research, please cite both this dataset and the 
 
 # License
 
-Please use this dataset only for research and educational purposes.
-
-Commercial use is prohibited unless prior permission is obtained from the copyright holders.
+This dataset is licensed under CC BY-NC 4.0. Please use this dataset only for research and educational purposes. Commercial use is prohibited unless prior permission is obtained from the copyright holders.
 
 ---
 
