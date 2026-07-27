@@ -33,6 +33,7 @@ To maximize data availability and facilitate future research, this repository in
 | Swine artery (commercial system) | 1310          | Endoscopic     | In vivo               | Available from the original publication |
 | Human retina (OCTA-500)          | 840           | Free-space     | In vivo               | Available from the original publication |
 | Rabbit retina                    | 840           | Free-space     | In vivo               | Released                                |
+| Human Finger                     | 840           | Free-space     | In vivo               | Released                                |
 
 ---
 
@@ -50,7 +51,9 @@ Dataset/
 │
 ├── 5_organoid/
 │
-└── 9_rabbitretina/
+├── 9_rabbitretina/
+│
+└── 10_finger/
 ```
 
 Unless otherwise specified,
@@ -66,7 +69,7 @@ No preprocessing, denoising, deconvolution, or annotation has been applied to th
 
 # Citation
 
-If you use this dataset in your research, please cite both this dataset and the associated publication.
+If you use this dataset in your research, please cite the associated publication:
 
 > Weiyi Zhang, Haoran Zhang, Qi Lan, Chang Liu, Zheng Li, Chengfu Gu, Jianlong Yang. Self-supervised PSF-informed deep learning enables real-time deconvolution for optical coherence tomography[J]. Advanced Imaging, 2025, 2(2): 021001
 
@@ -85,7 +88,7 @@ If you use this dataset in your research, please cite both this dataset and the 
 
 # License
 
-This dataset is licensed under CC BY-NC 4.0. Please use this dataset only for research and educational purposes. Commercial use is prohibited unless prior permission is obtained from the copyright holders.
+This dataset is licensed under CC BY-NC 4.0, so please use this dataset only for research and educational purposes. Commercial use is prohibited unless prior permission is obtained from the copyright holders.
 
 ---
 
